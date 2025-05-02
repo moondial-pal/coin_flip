@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme_content = """# 🎲 Coin Flip App
+# 🎲 Coin Flip App
 
 This is a basic command-line Python game that simulates flipping a coin and betting on the result. It was one of the first Python apps I built, and it helped me learn about functions, conditionals, and handling user input.
 
