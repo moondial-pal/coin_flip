@@ -20,11 +20,11 @@ This is a basic command-line Python game that simulates flipping a coin and bett
 
 ## 🖥️ Example
 
+```bash
 How much would you like to bet?: $20
 Heads or Tails?: heads
 You guessed correctly! heads: Your bet: $20 You now have: $120
-
-Always show details
+```
 
 ## 📂 Files
 
